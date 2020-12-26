@@ -1,4 +1,4 @@
-# Tree Type Prediction ML Project-
+# Tree Type Prediction Machine Learning
 
 1-) Welcome to "**Tree Types Prediction Project**".
 
