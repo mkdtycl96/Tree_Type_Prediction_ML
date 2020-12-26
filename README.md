@@ -12,6 +12,13 @@ Before diving into the project, please take a look at the determines and tasks.
 
 **2-)** We deal with tree type dataset in this notebook.
        
-       **first** We loaded the dataset and explored it. order to understand the data . We Focus
-       
-       
+        *1*   We loaded the dataset and explored it, order to understand the data.We did Explatonary Data Analysis on the data 
+        *2*   We Detect Missing Values and Outliers and removed them.
+        *3*   We focused on numerical and categorical data, Detect Number of Unique values of each column,Focus on Target Variable (Cover_Type)
+        *4*   Detect relationships and correlations between independent variables and target variable.
+        *5*   visualize the class frequencies of the target variable. 
+        *6*   Detect relationships and correlations between independent variables.
+        *7*   Consider dropping features that contain little data or that you think will not contribute to the model.
+        *8*   We trained our dataset with various classifier method  after clean data from outlier and missing values
+        *9*   And Compare model scores  with each other. and selected much suitable model
+        
